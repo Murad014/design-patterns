@@ -12,8 +12,9 @@ Facade Method Design Pattern
 
 Implementation
    Imagine We have task to transfer money from A to B in the bank system. We have already many services that client must use so we can implement Facade Design Pattern called Transfer.
-   
-UML
-   ![alt text](image.png)
+<<<<<<< HEAD
+
+   UML
+   ![alt text](image-1.png)
 
    
